@@ -15,6 +15,7 @@ body {
 }
 
 .rounded-circle {
+    width: 20vw;
     height: 20vh;
 }
 
